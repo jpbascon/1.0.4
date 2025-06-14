@@ -52,7 +52,7 @@ body {
 
 .title {
   display: flex;
-  font-size: 0.8rem;
+  font-size: 0.9rem;
   color: var(--Slate-900);
   margin-bottom: 14px;
 }
